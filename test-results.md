@@ -1,4 +1,4 @@
-**Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
+##Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
 
 Prilikom testiranja aritmetickih metoda(sabiranje, oduzimanje, mnozenje i dijeljenje) test je prosao
 
@@ -44,7 +44,7 @@ UNOS                          REZULTAT                             OCEKIVANI REZ
 
 Takodje sam po zadatku iz assignmenta napravio jedinicni test CalculatorTest.java koji je nakon pokretanja ispisao da je test prosao(PASSED)
 Kod ovog jedinicnog testa dodao sam u fajl CalculatorTest.java na GitHub
-Ovo je kod jedinicnog testa:
+Ovo je kod jedinicnog testa:##
 
 
 import static org.junit.jupiter.api.Assertions.*;
