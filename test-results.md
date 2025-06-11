@@ -1,4 +1,4 @@
-Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
+**Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
 
 Prilikom testiranja aritmetickih metoda(sabiranje, oduzimanje, mnozenje i dijeljenje) test je prosao
 
@@ -114,4 +114,4 @@ public class CalculatorTest {
         
         assertTrue(Float.isInfinite(Calculator.finalResult), "Dijeljenje s nulom treba vratiti beskonačnost");
     }
-}
+} **
