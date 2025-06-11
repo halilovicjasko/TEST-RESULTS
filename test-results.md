@@ -1,4 +1,4 @@
-##Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
+__Prilikom testiranja(black box) programa Calculator zapazio sam sljedece:
 
 Prilikom testiranja aritmetickih metoda(sabiranje, oduzimanje, mnozenje i dijeljenje) test je prosao
 
