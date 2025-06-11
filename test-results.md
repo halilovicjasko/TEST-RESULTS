@@ -3,12 +3,12 @@
 Prilikom testiranja aritmetickih metoda(sabiranje, oduzimanje, mnozenje i dijeljenje) test je prosao
 
 
-UNOS                           REZULTAT                             OCEKIVANI REZULTAT
-
-12+6                              18                                        18                 PASSED
-234-65                           169                                       169                 PASSED
-23*4                              92                                        92                 PASSED
-54/8                             6.75                                      6.75                PASSED
+|UNOS                        | REZULTAT                            | OCEKIVANI REZULTAT
+|----------------------------|-------------------------------------|-------------------------|-------|
+|12+6                        |     18                              |          18             | PASSED|
+|234-65                      |     169                             |    169                  | PASSED|
+|23*4                              92                                        92              | PASSED|
+|54/8                        |     6.75                            |        6.75             | PASSED|
 
 Za prioritet operatera test je takodje prosao
 
